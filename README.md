@@ -6,9 +6,7 @@
 
 **Solution**: This project automates attorney discovery, verification, and personalized outreach through a 3-step pipeline that chains multiple tools and validates data integrity at each stage.
 
-**Pending Updates**: 
-(1) Automate filling in 50+ intake forms using claude.ai google chrome connector after modifying the scraper to add the intake form to the table output. 
-(2) Using ChatGPT Astra-6's browser capabilities to automate the entire workflow by using multiple tools autonomously. 
+**Pending Updates**: (1) Automate filling in 50+ intake forms using claude.ai google chrome connector after modifying the scraper to add the intake form to the table output. (2) Using ChatGPT Astra-6's browser capabilities to automate the entire workflow by using multiple tools autonomously. 
 ---
 
 ## 📋 Quick Navigation
